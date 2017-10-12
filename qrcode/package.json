@@ -1,0 +1,21 @@
+{
+  "name": "jquery.qrcode",
+  "filename": "jquery.qrcode.js",
+  "version": "",
+  "description": "QRCode for JavaScript",
+  "homepage": "http://www.d-project.com",
+  "keywords": ["jquery", "qrcode", "jquery.qrcode"],
+  "maintainers": [
+	{
+	  "name": "Kazuhiko Arase/yeqinglan",
+	  "web": "http://www.d-project.com/https://github.com/eyeqinglan/",
+	  "mail": "Kazuhiko Arase/ygltzx@sina.com"
+	}
+  ],
+  "repositories": [
+	{
+	  "type": "git",
+	  "url": "https://github.com/eyeqinglan/Jquery.git"
+	}
+  ]
+}
