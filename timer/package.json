@@ -1,0 +1,21 @@
+{
+  "name": "jquery.timer",
+  "filename": "jquery.timer.js",
+  "version": "1.2",
+  "description": "Timer abstractions for jQuery",
+  "homepage": "https://github.com/eyeqinglan/Jquery/tree/master/timer",
+  "keywords": ["jquery", "timer", "jquery.timer"],
+  "maintainers": [
+	{
+	  "name": "Blair Mitchelmore/yeqinglan",
+	  "web": "Blair Mitchelmore/https://github.com/eyeqinglan/",
+	  "mail": "blair.mitchelmore@gmail.com/ygltzx@sina.com"
+	}
+  ],
+  "repositories": [
+	{
+	  "type": "git",
+	  "url": "https://github.com/eyeqinglan/Jquery.git"
+	}
+  ]
+}
