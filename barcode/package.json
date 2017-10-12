@@ -1,0 +1,21 @@
+{
+  "name": "jquery.barcode",
+  "filename": "jquery.barcode.js",
+  "version": "2.0.3",
+  "description": "jQuery barcode plugin",
+  "homepage": "http://barcode-coder.com",
+  "keywords": ["jquery", "barcode", "jquery.barcode"],
+  "maintainers": [
+	{
+	  "name": "Jean-Baptiste/yeqinglan",
+	  "web": "http://barcode-coder.com/https://github.com/eyeqinglan/",
+	  "mail": "jbdemonte@gmail.com/ygltzx@sina.com"
+	}
+  ],
+  "repositories": [
+	{
+	  "type": "git",
+	  "url": "https://github.com/eyeqinglan/Jquery.git"
+	}
+  ]
+}
